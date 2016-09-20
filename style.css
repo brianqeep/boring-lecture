@@ -1,0 +1,10 @@
+p.intro,h2.intro{
+  text-align: center;
+  color: teal;
+}
+img.intro{
+  height: 120px;
+  width: 170px;
+  margin-left: 42%;
+  border-radius: 7px;
+}
