@@ -1,4 +1,4 @@
-p.intro,h2.intro{
+p.intro, h2.intro{
   text-align: center;
   color: teal;
 }
@@ -7,4 +7,7 @@ img.intro{
   width: 170px;
   margin-left: 42%;
   border-radius: 7px;
+}
+h1{
+  text-align: center;
 }
